@@ -2,6 +2,14 @@
 
 By using ranges of hands, as opposed to individual cards, this tool can give you a better idea of how your range may play against an opponents in no-limit texas hold'em. 
 
+## TODOs
+
+- [ ] Better CSS, use brackets w/ SASS
+- [ ] Break app into components
+- [ ] Allow types ranges (e.g. KK+ for AA,KK)
+- [ ] Allow percent ranges (e.g. top 10%)
+- [ ] Add unit tests
+ 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
