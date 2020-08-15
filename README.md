@@ -4,7 +4,7 @@ By using ranges of hands, as opposed to individual cards, this tool can give you
 
 ## TODOs
 
-- [ ] Better CSS, use brackets w/ SASS
+- [x] Better CSS, use brackets w/ SASS
 - [ ] Break app into components
 - [ ] Allow types ranges (e.g. KK+ for AA,KK)
 - [ ] Allow percent ranges (e.g. top 10%)

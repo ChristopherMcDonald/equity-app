@@ -194,19 +194,24 @@ export default class Main extends Vue {
 }
 </script>
 
-<style lang="sass" scoped>
-.button
-  margin: 5px 1px
+<style lang="scss" scoped>
+.button {
+  margin: 5px 1px;
+}
 
-.left-item
-  margin: 3% 0
+.left-item {
+    margin: 3% 0;
+}
 
-.pad-right
-  margin: 0 3% 0 0
+.pad-right {
+    margin: 0 3% 0 0;
+}
 
-.pad-bottom
-  margin: 0 3% 3% 0
+.pad-bottom {
+  margin: 0 3% 3% 0;
+}
 
-.calc
-  margin: 1%
+.calc {
+  margin: 1%;
+}
 </style>
