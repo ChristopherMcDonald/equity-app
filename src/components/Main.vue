@@ -33,7 +33,11 @@
             </v-col>
           </v-row>
           <v-row class="left-item">
-            <v-btn class="warning pad-right" @click="deletePlayer">Delete Player</v-btn>
+            <v-btn
+              class="warning pad-right"
+              :disabled="players.length === 1"
+              @click="deletePlayer"
+            >Delete Player</v-btn>
             <v-btn class="error" @click="clearRange">Clear Range</v-btn>
           </v-row>
         </v-row>
